@@ -1,0 +1,6 @@
+C:\Users\Lukasz\Desktop\Sem 3\C++\Projekt\Przychodnia\Przychodnia\Debug\Przychodnia.exe
+C:\Users\Lukasz\Desktop\Sem 3\C++\Projekt\Przychodnia\Przychodnia\Debug\Przychodnia.pdb
+C:\Users\ja\Desktop\Przychodnia\Przychodnia\Debug\Przychodnia.exe
+C:\Users\ja\Desktop\Przychodnia\Przychodnia\Debug\Przychodnia.pdb
+C:\Users\Lukasz\Desktop\Przychodnia\Debug\Przychodnia.exe
+C:\Users\Lukasz\Desktop\Przychodnia\Debug\Przychodnia.pdb

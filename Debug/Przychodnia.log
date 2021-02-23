@@ -1,0 +1,22 @@
+﻿  Clinic.cpp
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(76,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(127,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(144,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(178,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(180,13): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(187,10): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(188,10): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(189,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(193,32): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(197,32): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(267,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(284,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(324,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Patient.cpp
+  Person.cpp
+  Program.cpp
+C:\Users\Lukasz\Desktop\Przychodnia\Program.cpp(94,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  Generowanie kodu...
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(361): warning C4715: "Clinic::InputPeselNumber”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Lukasz\Desktop\Przychodnia\Clinic.cpp(387): warning C4715: "Clinic::InputTelephoneNumber”: niewszystkie ścieżki kodu zwracają wartość
+  Przychodnia.vcxproj -> C:\Users\Lukasz\Desktop\Przychodnia\Debug\Przychodnia.exe
